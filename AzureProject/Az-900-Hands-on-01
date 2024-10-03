@@ -1,0 +1,19 @@
+Create an Azure resource
+
+Task 1: Create a virtual machine
+In this task, you’ll create a virtual machine using the Azure portal.
+
+Sign in to the Azure portal.
+
+Select Create a resource > Compute > Virtual Machine > Create.
+
+The Create a virtual machine pane opens to the basics tab.
+
+Verify or enter the following values for each setting. If a setting isn’t specified, leave the default value.
+
+Task 2: Verify resources created
+Once the deployment is created, you can verify that Azure created not only a VM, but all of the associated resources the VM needs.
+
+Select Home.
+Select Resource groups.
+Select the [Your Resource group name] resource group.
